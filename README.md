@@ -8,14 +8,7 @@
 <br>
 
 # Dependencies
-<br> - sklearn.decomposition.PCA
-<br> - sklearn.model_selection.train_test_split
-<br> - sklearn.tree.DecisionTreeClassifier
-<br> - sklearn.preprocessing.StandardScaler
-<br> - sklearn.linear_model.LogisticRegression
-<br> - from sklearn.metrics.classification_report
-<br> - from sklearn.model_selection.KFold
-<br> - from sklearn.model_selection.cross_val_score
+<br> - Sklearn
 <br> - Matplotlib
 <br> - Numpy
 <br> - Pandas
